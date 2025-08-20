@@ -8,6 +8,6 @@ const city = "sadadiya";
 console.log("%c"+ name ,"color: green");
 console.log("%c"+ age ,"color: green");
 console.log("%c"+ city ,"color: green");
-ff
+
 
 
